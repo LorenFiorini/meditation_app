@@ -13,8 +13,12 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    //double width = MediaQuery.of(context).size.width;
+    //double height = MediaQuery.of(context).size.height;
+
     return ScreenUtilInit(
-      designSize: const Size(375, 812),
+      //designSize:  const Size(375, 812),
+      //designSize:  const Size(height, width),
       builder: () => GetMaterialApp(
         debugShowCheckedModeBanner: false,
         theme: ThemeData(),
