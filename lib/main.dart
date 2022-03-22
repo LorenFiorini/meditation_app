@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
     //double height = MediaQuery.of(context).size.height;
 
     return ScreenUtilInit(
-      //designSize:  const Size(375, 812),
+      designSize:  const Size(375, 812),
       //designSize:  const Size(height, width),
       builder: () => GetMaterialApp(
         debugShowCheckedModeBanner: false,
