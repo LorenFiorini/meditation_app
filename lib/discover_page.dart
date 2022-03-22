@@ -22,7 +22,8 @@ class _DiscoverPageState extends State<DiscoverPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.green, //Color(0xff121421),
+      //backgroundColor: Color(0xff121421),
+      backgroundColor: Color(0xff311b92),
       body: SafeArea(
         child: ListView(
           physics: BouncingScrollPhysics(),
