@@ -37,7 +37,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text("Discover",
+                  Text("Home",
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 34.w,
