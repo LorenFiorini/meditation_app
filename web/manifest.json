@@ -1,11 +1,11 @@
 {
-    "name": "meditation_app",
-    "short_name": "meditation_app",
+    "name": "Meditation app",
+    "short_name": "Meditation app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Find peace of mind",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
