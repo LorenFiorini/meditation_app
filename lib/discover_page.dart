@@ -70,7 +70,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                     width: 28.w,
                   ),
                   CategoryBoxes(
-                    text: "Insomnia",
+                    text: "Anxiety",
                     onPressed: (value) => print(value),
                   ),
                   CategoryBoxes(
@@ -78,11 +78,15 @@ class _DiscoverPageState extends State<DiscoverPage> {
                     onPressed: (value) => print(value),
                   ),
                   CategoryBoxes(
-                    text: "Baby Sleep",
+                    text: "PTSD",
                     onPressed: (value) => print(value),
                   ),
                   CategoryBoxes(
                     text: "Insomnia",
+                    onPressed: (value) => print(value),
+                  ),
+                  CategoryBoxes(
+                    text: "Grief",
                     onPressed: (value) => print(value),
                   ),
                 ],
