@@ -32,11 +32,11 @@ const RESOURCES = {
 "favicon.ico": "df9f62a4bb5329b39e7a32a81e33e256",
 "icons/Icon-192.png": "4804d73520c856952d38760100853a7d",
 "icons/Icon-512.png": "82f1545c9f3f82a3187ef267fab89609",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "97e0a3d82b9c6312c2c38aa6ea1c0018",
-"/": "97e0a3d82b9c6312c2c38aa6ea1c0018",
-"main.dart.js": "7bb43c31900f2f1a3c5959335a41d85f",
+"icons/Icon-maskable-192.png": "1374c7633795f5c16259be7f6b464fd6",
+"icons/Icon-maskable-512.png": "9c781d86a8222dc380378f14bfb5eedc",
+"index.html": "1368dd8da2c96c5abdd201049d26a901",
+"/": "1368dd8da2c96c5abdd201049d26a901",
+"main.dart.js": "e019d9259f5c6b092e9058c52fbc5fe9",
 "manifest.json": "43079f81467db073178202f12fb09235",
 "version.json": "ecea08ab6184aee545e1bd0addae5b16"
 };
