@@ -127,7 +127,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                   DiscoverCard(
                     tag: "sleepMeditation",
                     onTap: onSleepMeditationTapped,
-                    title: "Sleep Meditation",
+                    title: "Relieve Stress",
                     subtitle: "7 Day Audio and Video Series",
                   ),
                   SizedBox(width: 20.w),
@@ -179,7 +179,7 @@ class _DiscoverPageState extends State<DiscoverPage> {
                   DiscoverSmallCard(
                     onTap: (){
                     },
-                    title: "For Children",
+                    title: "Ease Anxiety",
                     gradientStartColor: Color(0xffFFD541),
                     gradientEndColor: Color(0xffF0B31A),
                   ),

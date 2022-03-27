@@ -35,7 +35,7 @@ class _DetailPageState extends State<DetailPage> {
                   tag: "sleepMeditation",
                     child: Material(
                       color: Colors.transparent,
-                      child: Text("Sleep Meditation",
+                      child: Text("Relieve Stress",
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 34.w,
