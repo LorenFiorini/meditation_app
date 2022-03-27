@@ -14,5 +14,14 @@
    - Depression  ~44%
    - Anxiety  ~40%
    - PTSD  ~36% _(Post Traumatic Stress Disorder)_
+ 
+ <p align="center">
+  <img src="https://github.com/LorenFiorini/meditation_app/blob/main/assets/downloaded_images/refugees-seek-diaspora-060322-01.jpg" alt="Sublime's custom image"/>
+</p>
 
 ## The Solution
+ - Several different studies show how regular meditation significantly **reduces depression and anxiety**. It also helps alleviate and it can even reverse **PTSD symptoms**.
+
+
+
+![Meditation](https://github.com/LorenFiorini/meditation_app/blob/main/assets/downloaded_images/meditatingsunset.jpg "Meditation")
