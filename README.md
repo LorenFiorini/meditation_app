@@ -21,6 +21,8 @@
 
 ## The Solution
  - Several different studies show how regular meditation significantly **reduces depression and anxiety**. It also helps alleviate and it can even reverse **PTSD symptoms**.
+ - This Web App will offer **free meditation sessions**. The guided meditations will be focused on helping refugees with possible mental disorders associated with their transition.
+
 
 
 
